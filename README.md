@@ -1,5 +1,5 @@
 # Coursework-link
-Postgraduate assignment
+Postgraduate coursework:Principles of deep neural networks
 ##### Related code link
 
 paper： [VideoQA in the Era of LLMs: An Empirical Study ](https://arxiv.org/abs/2408.04223)
